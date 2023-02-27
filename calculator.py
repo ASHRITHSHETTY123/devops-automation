@@ -1,4 +1,5 @@
-
+print("ash")
+'''
 def add(x, y):
     return x + y
 def subtract(x, y):
@@ -38,4 +39,4 @@ while True:
             print(num1, "/", num2, "=", divide(num1, num2))
         
         else:
-            print("Invalid Input")
+            print("Invalid Input")'''
